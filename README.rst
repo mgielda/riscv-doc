@@ -39,3 +39,5 @@ Cons:
 - no JavaScript RST parsers for on-the-fly rendering in the browser [#]_
 
 .. [#] I would actually propose that we write one, if we're serious about it
+
+For more info, see `the reST playground <reStructuredText.rst>`_.
