@@ -22,7 +22,7 @@ Markdown
 
 Markdown is excellent in terms of adoption and HTML output, but it does not offer proper tooling for LaTeX output.
 There is a Markdown-based documentation tool called `MkDocs <http://www.mkdocs.org/>`_, but it only outputs HTML.
-Also, many people have complained about Markwdown's inherent inability to represent more complicated document structures due
+Also, many people have complained about Markdown's inherent inability to represent more complicated document structures due
 to the very simplicity that makes it popular.
 
 RST
